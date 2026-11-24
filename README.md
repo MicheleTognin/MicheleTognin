@@ -22,7 +22,7 @@ const michele = {
   plays:     ["guitar", "bass", "piano"],
   studied:   ["Guitar", "Composition"],           // conservatory diplomas
   arranges:  "anything from a duo to a full orchestra",
-  codes:     ["JavaScript", "React", "Vue", "Node.js", "Laravel"],
+  codes:     ["JavaScript", "React", "Vue", "Node.js"],
   daw:       ["Cubase", "Logic Pro"],
   notation:  "Dorico",
   building:  "software for musicians: audio tools, AI workflows, web apps",
@@ -33,7 +33,7 @@ const michele = {
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,php,laravel,git&perline=9" alt="JavaScript, HTML, CSS, React, Vue, Node.js, PHP, Laravel, Git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,php,git&perline=8" alt="JavaScript, HTML, CSS, React, Vue, Node.js, PHP, Git" />
 </p>
 
 ![Cubase](https://img.shields.io/badge/Cubase-1E293B?style=for-the-badge)
