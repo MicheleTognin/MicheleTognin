@@ -40,7 +40,7 @@ First releases coming soon. Each plugin's source will land here when it is ready
 
 <div align="center">
 
-**Michele Tognin** · composer & guitarist, conservatory-trained in guitar and composition  
+**Michele Tognin** · Composer  
 <sub>Plugins are written in collaboration with AI, directed by a musician's ear.</sub>
 
 </div>
