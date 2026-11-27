@@ -1,54 +1,48 @@
 <div align="center">
 
-# Michele Tognin
+<img src="logo.svg" width="132" alt="Tessitura logo: two interlaced waveforms" />
 
-**Composer · Guitarist · Developer**
+# Tessitura
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Writing+for+orchestra.+Coding+for+the+web.;Building+tools+for+musicians+with+AI.;Audio+plugins+for+film+%26+sound+design+%E2%80%94+soon." alt="Writing for orchestra. Coding for the web. Building tools for musicians with AI." />
+**Open source audio plugins, woven by a composer.**
 
-![Guitar](https://img.shields.io/badge/Conservatory-Guitar-F59E0B?style=flat-square)
-![Composition](https://img.shields.io/badge/Conservatory-Composition-F59E0B?style=flat-square)
-![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=FBBF24&center=true&vCenter=true&width=620&lines=Open+source+audio+plugins.;Woven+by+a+composer.;For+film%2C+theatre+%26+sound+design." alt="Open source audio plugins. Woven by a composer. For film, theatre and sound design." />
+
+![Open source](https://img.shields.io/badge/Open_source-FBBF24?style=flat-square&labelColor=0B1220)
+![AU](https://img.shields.io/badge/AU-F97316?style=flat-square&labelColor=0B1220)
+![VST3](https://img.shields.io/badge/VST3-F97316?style=flat-square&labelColor=0B1220)
+![Cubase](https://img.shields.io/badge/Cubase-64748B?style=flat-square&labelColor=0B1220)
+![Logic Pro](https://img.shields.io/badge/Logic_Pro-64748B?style=flat-square&labelColor=0B1220)
 
 </div>
 
 ---
 
-### `$ whoami`
+### `tessitura /tes·si·tù·ra/ — n.`
 
-```js
-const michele = {
-  plays:     ["guitar", "bass", "piano"],
-  studied:   ["Guitar", "Composition"],           // conservatory diplomas
-  arranges:  "anything from a duo to a full orchestra",
-  codes:     ["JavaScript", "React", "Vue", "Node.js"],
-  daw:       ["Cubase", "Logic Pro"],
-  notation:  "Dorico",
-  building:  "software for musicians: audio tools, AI workflows, web apps",
-  believes:  "technology should serve the music, not lead it",
-};
+```text
+1. the weave of a fabric: threads crossing over and under, until they hold a shape.
+2. the range in which a voice sits most naturally.
 ```
 
-### 🛠️ Toolbox
+Tessitura is a small studio making **audio plugins in the open**: effects and instruments for film scoring and sound design, built by someone who writes for orchestra and plays for a living, not by a spec sheet.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,php,git&perline=8" alt="JavaScript, HTML, CSS, React, Vue, Node.js, PHP, Git" />
-</p>
+### What goes here
 
-![Cubase](https://img.shields.io/badge/Cubase-1E293B?style=for-the-badge)
-![Logic Pro](https://img.shields.io/badge/Logic_Pro-1E293B?style=for-the-badge)
-![Dorico](https://img.shields.io/badge/Dorico-1E293B?style=for-the-badge)
-![Kontakt](https://img.shields.io/badge/Kontakt-1E293B?style=for-the-badge)
+- 🎛️ **Effects and synths** shaped for cinema, theatre and sound design
+- 🔌 **AU and VST3**, made to sit inside Cubase and Logic Pro
+- 📖 **Readable source**: if you want to know how it sounds that way, open the code
+- 🧵 **Small and finished** over big and unfinished: one plugin, one idea, done well
 
-### 🔭 Right now
+### Status
 
-- 🎛️ Designing **audio plugins (AU / VST3)** for film scoring and sound design: *coming soon*
-- 🤖 Exploring **AI agents** and the Anthropic API for creative workflows
-- 🎧 Studying **sound design** for theatre and cinema
+First releases coming soon. Each plugin's source will land here when it is ready to be played.
 
 ---
 
 <div align="center">
-  <sub>🎼 Where music theory meets code.</sub>
+
+**Michele Tognin** · composer & guitarist, conservatory-trained in guitar and composition  
+<sub>Plugins are written in collaboration with AI, directed by a musician's ear.</sub>
+
 </div>
